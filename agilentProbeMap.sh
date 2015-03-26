@@ -1,6 +1,6 @@
 ########################################################################
-# Agilent microarray probe sequence mapping to referece transcriptomes #
-#	>> personal communication & use scripts from                   #
+# Agilent microarray probe sequence mapping to reference transcriptomes#
+#	>> personal communication & use scripts from                       #
 #                https://github.com/MWSchmid/microarray                #    
 #                prepareMicroarrayProbes.py                            #
 # Diana Coman Schmid                                                   #
