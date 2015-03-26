@@ -8,10 +8,6 @@
 # diana.comanschmid@eawag.ch                                           #
 ########################################################################
 
-############################
-# Danio rerio // zebrafish #
-############################
-
     # map probe sequences from the zebrafish Agilent microarray platform to the latest zebrafish transcriptome (Zv9)
     # build the bowtie index 
 
